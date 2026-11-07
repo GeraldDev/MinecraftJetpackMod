@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "CNC",
+    "NLC"
+  ],
+  "key": {
+    "C": { "item": "minecraft:copper_ingot" },
+    "N": { "item": "minecraft:netherite_ingot" },
+    "L": { "item": "minecraft:lava_bucket" }
+  },
+  "result": {
+    "id": "jetpack:jetpack",
+    "count": 1
+  }
+}
